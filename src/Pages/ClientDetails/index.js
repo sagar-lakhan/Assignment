@@ -11,8 +11,8 @@ class ClientDetails extends Component{
     constructor(props){
         super(props);
         this.state={
-            AddressLine1:"",
-            AddressLine2:"",
+            AddressLine1:"mumbai",
+            AddressLine2:"maharashtra",
             City:"",
             State:"",
             Country:"",
