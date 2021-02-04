@@ -18,7 +18,7 @@ class HomeScreen extends Component{
             {name:"Product 4", quantity:0, price:7}, 
             {name:"Product 5", quantity:0, price:11, editable:true}, 
             {name:"Product 6", quantity:0, price:12, editable:true}, 
-            {name:"Product 7", quantity:0, price:15, editable:true}],
+            {name:"Product 8", quantity:0, price:15, editable:true}],
             totalCost:0
         }
     }
